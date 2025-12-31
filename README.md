@@ -15,13 +15,19 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 <div style="display: flex; justify-content: center;">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux" />
   </a>
   </div>
 
   <h1>Backend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,docker,postman" />
+  </a>
+  </div>
+
+  <h1>Tools & DevOps</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vite,npm,vercel,netlify" />
   </a>
   </div>
   
