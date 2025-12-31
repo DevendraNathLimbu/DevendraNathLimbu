@@ -21,7 +21,7 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 
   <h1>Backend</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,postman" />
   </a>
   </div>
 
