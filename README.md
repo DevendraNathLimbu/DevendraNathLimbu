@@ -12,7 +12,9 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 - 📚 Learning + experimenting with TypeScript & backend architecture  
 
 # 💻 Tech Stack:
-  <h1>Frontend</h1>
+<div style="display: flex; justify-content: center;">
+  Frontend
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
