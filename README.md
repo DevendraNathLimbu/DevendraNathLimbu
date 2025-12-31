@@ -12,12 +12,10 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 - 📚 Learning + experimenting with TypeScript & backend architecture  
 
 # 💻 Tech Stack:
-<p align="center">
   <h1>Frontend</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
-</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevendraNathLimbu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevendraNathLimbu&theme=dark&hide_border=false)<br/>
