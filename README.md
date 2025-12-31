@@ -14,11 +14,17 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: center;">
   <h1>Frontend</h1>
-  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
   </a>
   </div>
+
+  <h1>Backend</h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+  </a>
+  </div>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevendraNathLimbu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevendraNathLimbu&theme=dark&hide_border=false)<br/>
