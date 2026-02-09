@@ -3,7 +3,7 @@ Aspiring software developer, buildings things on purpose. A self-made person und
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srijan_limbu_111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijanlimbu777@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijanlimbu777@gmail.com) 
 
 ## 📁 What I Build
 - 🧩 Full-stack MERN applications  
